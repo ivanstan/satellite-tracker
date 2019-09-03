@@ -9,6 +9,8 @@
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
