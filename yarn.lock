@@ -8435,6 +8435,11 @@ sass-loader@7.2.0:
     pify "^4.0.1"
     semver "^5.5.0"
 
+satellite.js@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/satellite.js/-/satellite.js-3.0.1.tgz#8eeda238624ea06405323e73f49603072d53a1eb"
+  integrity sha512-6oXEOHM3thTZvYh5OzEtXDuJGC9bBLVGVXA0KO1iuF1vlQP7TXHbxFalyVsHOfBWsZY6pfjjCiIAMnFG0sbmEA==
+
 sax@^1.2.4, sax@~1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
